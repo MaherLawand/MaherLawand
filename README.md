@@ -1,5 +1,5 @@
 
-<img src="https://github.com/MaherLawand/MaherLawand/blob/main/Gif/Coding.gif" alt="Coding" width="1000px" height="500px" />
+<img src="https://github.com/MaherLawand/MaherLawand/blob/main/Gif/Coding.gif" alt="Coding" width="1000px" height="400px" />
 
 <h1 align="center">Hi 👋, I'm Maher Lawand</h1>
 <h3 align="center">A passionate FullStack Developer From Lebanon</h3>
